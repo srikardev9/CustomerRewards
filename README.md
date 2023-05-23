@@ -17,7 +17,7 @@ Below steps for different data inputs
 
 http://localhost:8080/mockupData
 
-![alt text](https://github.com/Raghuj95/CustomerRewardPoints/blob/main/Showcase/mockupdata.png)
+![alt text](https://github.com/srikardev9/CustomerRewards/blob/main/Showcase/mockupdata.png)
 
 | Method  | API                               | Request  | Response                    |
 | ------- | --------------------------------- | -------- | --------------------------- |
@@ -27,7 +27,7 @@ http://localhost:8080/mockupData
 
 http://localhost:8080/getRewardPoints?customerName=customer1
 
-![alt text](https://github.com/Raghuj95/CustomerRewardPoints/blob/main/Showcase/customer1.png)
+![alt text](https://github.com/srikardev9/CustomerRewards/blob/main/Showcase/customer1.png)
 
 | Method  | API                                                          | Request  | Response                    |
 | ------- | ------------------------------------------------------------ | -------- | --------------------------- |
@@ -37,7 +37,7 @@ http://localhost:8080/getRewardPoints?customerName=customer1
 
 http://localhost:8080/getRewardPoints?customerName=customer2
 
-![alt text](https://github.com/Raghuj95/CustomerRewardPoints/blob/main/Showcase/customer2.png)
+![alt text](https://github.com/srikardev9/CustomerRewards/blob/main/Showcase/customer2.png)
 
 | Method  | API                                                          | Request  | Response                    |
 | ------- | ------------------------------------------------------------ | -------- | --------------------------- |
@@ -47,7 +47,7 @@ http://localhost:8080/getRewardPoints?customerName=customer2
 
 http://localhost:8080/getRewardPoints?customerName=customer10
 
-![alt text](https://github.com/Raghuj95/CustomerRewardPoints/blob/main/Showcase/nocustomer.png)
+![alt text](https://github.com/srikardev9/CustomerRewards/blob/main/Showcase/nocustomer.png)
 
 | Method  | API                                                          | Request  | Response                    |
 | ------- | ------------------------------------------------------------ | -------- | --------------------------- |
@@ -57,7 +57,7 @@ To Run Junits
 -----------
 Unit Testing  Junit (run com.points.PointsServiceTest.java class)
 
-![alt text](https://github.com/Raghuj95/CustomerRewardPoints/blob/main/Showcase/Junits.png)
+![alt text](https://github.com/srikardev9/CustomerRewards/blob/main/Showcase/Junits.png)
 
 For Dockerization
 -----------------
